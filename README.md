@@ -35,3 +35,9 @@
   <a src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rahmattulus&theme=dark&hide_border=true&border_radius=12&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="220" alt="streak graph"  />
 </div>
 
+###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/rahmattullus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahmattullus" height="30" width="40" /></a>
+</p>
+
